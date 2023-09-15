@@ -2,14 +2,7 @@
 
 
 
-<h1 align="center"><b>Better Enernite ChatGPT</b></h1>
-
-<p align="center">
-   English Version |
-   <a href="README-zh_CN.md">
-      简体中文版
-   </a>
-</p>
+<h2 align="center"><b>Better Enernite ChatGPT</b></h2>
 
 <p align="center">
     <a href="https://bettergpt.chat" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
