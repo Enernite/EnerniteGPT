@@ -4,9 +4,7 @@
 
 <h2 align="center"><b>Better Enernite ChatGPT</b></h2>
 
-<p align="center">
-    <a href="https://bettergpt.chat" target="_blank"><img src="public/apple-touch-icon.png" alt="Better ChatGPT" width="100" /></a>
-</p>
+
 
 <h4 align="center"><b>Free, Powerful, Limitless, Intelligent, Engaging</b></h4>
 
